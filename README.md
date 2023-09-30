@@ -42,6 +42,8 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
  Have fun testing and improving it! 😎
 
  # Live site!
+ -demo email: bob@bob.com
+ -demo password: bobbobbob
  https://get-it-done-tqbg.onrender.com
 
 
