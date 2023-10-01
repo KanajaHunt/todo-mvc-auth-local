@@ -43,8 +43,8 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
 
  # Live site!
  
- - Demo email: bob@bob.com
- - Demo password: bobbobbob
+ - Demo email: ana@ana.com
+ - Demo password: anaanaana
  - https://get-it-done-tqbg.onrender.com
 
 
